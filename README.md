@@ -1,3 +1,3 @@
 # FreeCodeCampLearning
 
-<a href="https://github.com/frankjam/FreeCodeCampLearning/tree/main/Res">Responsive Web Design Intro </a>
+<a href="https://github.com/frankjam/FreeCodeCampLearning/tree/main/RWD">Responsive Web Design Intro </a>
