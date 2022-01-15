@@ -30,11 +30,14 @@ These include
     </a>
 ```
 # CSS
- css: html element selector <style> h2{}</style>
- css: using class <style> .red-text{}</style>
+ css: html element selector ``` <style> h2{}</style>```
+ css: using class ``` <style> .red-text{}</style>```
 
 ### padding, border, and margin.
 
 An element's padding controls the amount of space between the element's content and its border.
 An element's margin controls the amount of space between an element's border and surrounding elements.
 border 
+
+
+<p> Learn more for free from <a href="https://www.freecodecamp.org/learn"> https://www.freecodecamp.org/learn </a> and get a certificate after completing the projects  </p>
