@@ -29,9 +29,11 @@ These include
         <img src=""> 
     </a>
 ```
-# CSS
- css: html element selector ``` <style> h2{}</style>```
- css: using class ``` <style> .red-text{}</style>```
+# CSS introduces beauty to a page 
+  Styling can be applied via :<br>
+      * html element selector ``` <style> h2{}</style>``` 
+      * using class ``` <style> .red-text{}</style>```
+
 
 ### padding, border, and margin.
 
